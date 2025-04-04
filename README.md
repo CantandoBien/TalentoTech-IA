@@ -1,2 +1,3 @@
 # TalentoTech-IA
-Proyecto entrenamiento de modelo Visual Computer
+Visual Computer AI training
+Coins deffect detect
